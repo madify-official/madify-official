@@ -1,6 +1,6 @@
 # Madify – Influencer Marketing & Talent Management Agency
 
-[![Website](![image](https://github.com/user-attachments/assets/c77cacff-8e9d-4361-8caf-1d5102ea3d60))](https://madify.in)
+[![Website]![image](https://github.com/user-attachments/assets/c38422d6-a8b0-46b7-97e0-22edc40eb004)](https://madify.in)
 [![Instagram](https://img.shields.io/badge/Follow-@madify.in-red)](https://instagram.com/madify.in)
 
 **Madify** is a next-generation influencer marketing agency focused on empowering regional voices and building impactful brand campaigns across India. Based in Guwahati, Assam, we're pioneers in structuring the influencer economy in the Northeast.
