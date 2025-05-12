@@ -34,13 +34,6 @@ We are trusted by 100+ brands and work with 1000+ creators to deliver engaging, 
 - 🎥 Millions of Impressions across Reels & Shorts
 - 🧑‍🎤 5+ Exclusive Regional Creators Managed
 
----
-
-## 🧑‍💼 Founding Team
-
-- **Mafuz A. Laskar** – Founder & CEO  
-- **Rahul Mahato** – Business Director  
-- **Tanwira Barbhuiya** – PR Director
 
 ---
 
@@ -48,7 +41,6 @@ We are trusted by 100+ brands and work with 1000+ creators to deliver engaging, 
 
 📍 2B, 2nd Floor, Oasis Commercial Complex, Ulubari, Guwahati, Assam – 781007  
 📞 +91 86389 24116  
-📧 hello@madify.in  
 🌐 [madify.in](https://madify.in)  
 
 ---
